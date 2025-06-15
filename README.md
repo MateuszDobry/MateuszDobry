@@ -4,7 +4,7 @@ My name is Mateusz, and I'm Computer Science Student interested in software deve
 backend systems and infrastructure.
 
 - 🔭 I’m currently working on developing controllers and drivers for a Vacuum Fusor with Research Group of Physics Students.
-- 🌱 I’m currently learning Rust and also embedded systems programming
+- 🌱 I’m currently learning Pytorch and also embedded systems programming
 - 📫 How to reach me
   - e-mail: mateusz.dobry5@gmail.com
   - linkeIn: www.linkedin.com/in/mateusz-dobry-2132a630b
