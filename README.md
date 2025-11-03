@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-My name is Mateusz, and I'm Computer Science Student interested in software development, particularly in the areas of
+My name is Mateusz, and I'm Computer Science Student interested in AI and software development, particularly in the areas of
 backend systems and infrastructure.
 
-- 🔭 I’m currently working on developing controllers and drivers for a Vacuum Fusor with Research Group of Physics Students.
 - 🌱 I’m currently learning Pytorch and also embedded systems programming
 - 📫 How to reach me
   - e-mail: mateusz.dobry5@gmail.com
